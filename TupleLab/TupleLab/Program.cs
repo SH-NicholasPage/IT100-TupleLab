@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * DO NOT TOUCH THIS FILE!
+ */
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
